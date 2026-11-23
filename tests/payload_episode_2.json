@@ -1,0 +1,382 @@
+{
+  "jobId": "episode-2-v4",
+  "seriesId": "local-data-series",
+  "callbackUrl": "http://127.0.0.1:8765/callback",
+  "episodes": [
+    {
+      "episodeId": "episode-2",
+      "title": "Episode 2",
+      "videoUrl": "http://127.0.0.1:8765/testdata/Episode%202.mp4"
+    }
+  ],
+  "products": [
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_40_PM_608256cbb409",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.40%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.40%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.40 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_41_PM_1_c46cd5df2281",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.41%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.41%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.41 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_41_PM_19a8d0f835c8",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.41%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.41%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.41 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_44_PM_1_79d72cf221d7",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.44%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.44%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.44 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_44_PM_2_2c66b5b91c1e",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.44%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.44%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.44 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_44_PM_6a11e4ec2ceb",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.44%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.44%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.44 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_45_PM_1_9bffe7f34e0d",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.45%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.45%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.45 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_45_PM_2_2a00d7b6c6d5",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.45%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.45%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.45 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_45_PM_2517a873e9e8",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.45%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.45%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.45 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_47_PM_1_c04cd34ecee5",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.47%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.47%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.47 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_47_PM_2_7fe6077a3aa9",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.47%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.47%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.47 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_47_PM_94d3ed9f1d70",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.47%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.47%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.47 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_48_PM_1_4c274ec34092",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.48%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.48%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.48 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_48_PM_2_358d1045f4fa",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.48%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.48%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.48 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_48_PM_94b875616fb8",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.48%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.48%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.48 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_49_PM_1_eccc26fb450e",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.49%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.49%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.49 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_49_PM_2_cdb3e8a583d5",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.49%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.49%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.49 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_49_PM_70121dcc5acb",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.49%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.49%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.49 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_50_PM_1_510a0c843b2b",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.50%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.50%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.50 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_50_PM_2_e2ecfd5206a9",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.50%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.50%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.50 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_50_PM_b26357ef1051",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.50%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.50%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.50 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_51_PM_1_71158e52acae",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.51%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.51%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.51 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_51_PM_2_449b088515d9",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.51%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.51%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.51 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_51_PM_3_a325df555750",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.51%20PM%20%283%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.51%20PM%20%283%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.51 PM (3).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_51_PM_f8bd2f7b0e86",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.51%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.51%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.51 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_52_PM_1_9e9874294d57",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.52%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.52%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.52 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_52_PM_2_3c00c33358ca",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.52%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.52%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.52 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_52_PM_2506d8a34466",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.52%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.52%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.52 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_53_PM_b238a1084cf8",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.53%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.53%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.53 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_56_PM_1_44b018f945a4",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.56%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.56%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.56 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_56_PM_2_a7ef43840ee4",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.56%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.56%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.56 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_56_PM_002b9cad0660",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.56%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.56%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.56 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_57_PM_1_c6485a4c974d",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.57%20PM%20%281%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.57%20PM%20%281%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.57 PM (1).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_57_PM_2_f43addba6c2b",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.57%20PM%20%282%29.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.57%20PM%20%282%29.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.57 PM (2).jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_57_PM_067f2bd7d8f0",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.57%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.57%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.57 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_CLOTHING_WhatsApp_Image_2026-10-08_at_5_27_58_PM_1a5437c72e0e",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.58%20PM.jpeg",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing/WhatsApp%20Image%202026-10-08%20at%205.27.58%20PM.jpeg",
+      "imageKey": "productimages/clothing/WhatsApp Image 2026-10-08 at 5.27.58 PM.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP2_OBJ002",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ002_Glasses/OBJ002%20%281%29.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ002_Glasses/OBJ002%20%281%29.jpeg",
+      "imageKey": "productimages/objects/by_product/OBJ002_Glasses/OBJ002 (1).jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ002_Glasses/OBJ002%20%284%29.jpeg",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ002_Glasses/OBJ002%20%285%29.jpeg",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ002_Glasses/OBJ002%20%286%29.jpeg",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ002_Glasses/OBJ002%20%287%29.jpeg",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ002_Glasses/OBJ002%20%288%29.jpeg"
+      ]
+    },
+    {
+      "productId": "EP2_OBJ003",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ003_Phone/OBJ003%20%281%29.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ003_Phone/OBJ003%20%281%29.jpeg",
+      "imageKey": "productimages/objects/by_product/OBJ003_Phone/OBJ003 (1).jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ003_Phone/OBJ003%20%282%29.jpeg",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ003_Phone/OBJ003%20%283%29.jpeg"
+      ]
+    },
+    {
+      "productId": "EP2_OBJ004",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ004_Glass/OBJ004%20%281%29.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ004_Glass/OBJ004%20%281%29.jpeg",
+      "imageKey": "productimages/objects/by_product/OBJ004_Glass/OBJ004 (1).jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ004_Glass/OBJ004%20%282%29.jpeg",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ004_Glass/OBJ004%20%283%29.jpeg"
+      ]
+    },
+    {
+      "productId": "EP2_OBJ005",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ005_Bottle/OBJ005%20%281%29.png",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ005_Bottle/OBJ005%20%281%29.png",
+      "imageKey": "productimages/objects/by_product/OBJ005_Bottle/OBJ005 (1).png",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ005_Bottle/OBJ005%20%282%29.webp",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ005_Bottle/OBJ005%20%283%29.jpeg",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ005_Bottle/OBJ005%20%284%29.jpeg"
+      ]
+    },
+    {
+      "productId": "EP2_OBJ006",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ006_MetalVase/OBJ006%20%281%29.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ006_MetalVase/OBJ006%20%281%29.jpeg",
+      "imageKey": "productimages/objects/by_product/OBJ006_MetalVase/OBJ006 (1).jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ006_MetalVase/OBJ006%20%282%29.jpeg",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ006_MetalVase/OBJ006%20%283%29.jpeg"
+      ]
+    },
+    {
+      "productId": "EP2_OBJ007",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ007_WoodenTable/OBJ007%20%281%29.png",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ007_WoodenTable/OBJ007%20%281%29.png",
+      "imageKey": "productimages/objects/by_product/OBJ007_WoodenTable/OBJ007 (1).png",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ007_WoodenTable/OBJ007%20%282%29.webp",
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ007_WoodenTable/OBJ007%20%283%29.webp"
+      ]
+    },
+    {
+      "productId": "EP2_OBJ008",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ008_smartwatch/OBJ008%20%281%29.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects/by_product/OBJ008_smartwatch/OBJ008%20%281%29.jpeg",
+      "imageKey": "productimages/objects/by_product/OBJ008_smartwatch/OBJ008 (1).jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects/by_product/OBJ008_smartwatch/OBJ008%20%282%29.jpeg"
+      ]
+    }
+  ]
+}

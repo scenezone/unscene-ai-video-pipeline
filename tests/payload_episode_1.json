@@ -1,0 +1,137 @@
+{
+  "jobId": "episode-1-v4",
+  "seriesId": "local-data-series",
+  "callbackUrl": "http://127.0.0.1:8765/callback",
+  "episodes": [
+    {
+      "episodeId": "episode-1",
+      "title": "Episode 1",
+      "videoUrl": "http://127.0.0.1:8765/testdata/Episode%201.mp4"
+    }
+  ],
+  "products": [
+    {
+      "productId": "EP1_CLOTHING_IMG_7865_5d5475417a15",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing1/IMG_7865.PNG",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing1/IMG_7865.PNG",
+      "imageKey": "productimages/clothing1/IMG_7865.PNG",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP1_CLOTHING_IMG_7875_dce157a9ca77",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing1/IMG_7875.PNG",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing1/IMG_7875.PNG",
+      "imageKey": "productimages/clothing1/IMG_7875.PNG",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP1_CLOTHING_IMG_7876_ec1ea6b02586",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing1/IMG_7876.PNG",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing1/IMG_7876.PNG",
+      "imageKey": "productimages/clothing1/IMG_7876.PNG",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP1_CLOTHING_IMG_7877_ea7935505a3d",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing1/IMG_7877.PNG",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing1/IMG_7877.PNG",
+      "imageKey": "productimages/clothing1/IMG_7877.PNG",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP1_CLOTHING_IMG_7878_bf5bb841c122",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing1/IMG_7878.PNG",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing1/IMG_7878.PNG",
+      "imageKey": "productimages/clothing1/IMG_7878.PNG",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP1_CLOTHING_IMG_7879_7741dce37b9f",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing1/IMG_7879.PNG",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing1/IMG_7879.PNG",
+      "imageKey": "productimages/clothing1/IMG_7879.PNG",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP1_CLOTHING_IMG_7882_84984c2baa69",
+      "imageUrl": "http://127.0.0.1:8765/productimages/clothing1/IMG_7882.PNG",
+      "category": "clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/clothing1/IMG_7882.PNG",
+      "imageKey": "productimages/clothing1/IMG_7882.PNG",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP1_OBJ002",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ002_handbag/OBJ002_01_front.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ002_handbag/OBJ002_01_front.jpeg",
+      "imageKey": "productimages/objects1/by_product/OBJ002_handbag/OBJ002_01_front.jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ002_handbag/OBJ002_02_three_quarter_dark.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ002_handbag/OBJ002_03_three_quarter_white_background.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ002_handbag/OBJ002_04_rear.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ002_handbag/OBJ002_05_three_quarter_beige_background.jpeg"
+      ]
+    },
+    {
+      "productId": "EP1_OBJ003",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ003_earrings/OBJ003_01_pair_front.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ003_earrings/OBJ003_01_pair_front.jpeg",
+      "imageKey": "productimages/objects1/by_product/OBJ003_earrings/OBJ003_01_pair_front.jpeg",
+      "additionalImageUrls": []
+    },
+    {
+      "productId": "EP1_OBJ004",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ004_eyeglasses/OBJ004_01_three_quarter.png",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ004_eyeglasses/OBJ004_01_three_quarter.png",
+      "imageKey": "productimages/objects1/by_product/OBJ004_eyeglasses/OBJ004_01_three_quarter.png",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ004_eyeglasses/OBJ004_02_front_open.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ004_eyeglasses/OBJ004_03_side.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ004_eyeglasses/OBJ004_04_front_folded.jpeg"
+      ]
+    },
+    {
+      "productId": "EP1_OBJ005",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ005_phone/OBJ005_01_rear.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ005_phone/OBJ005_01_rear.jpeg",
+      "imageKey": "productimages/objects1/by_product/OBJ005_phone/OBJ005_01_rear.jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ005_phone/OBJ005_02_camera_detail.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ005_phone/OBJ005_03.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ005_phone/OBJ005_04.jpeg"
+      ]
+    },
+    {
+      "productId": "EP1_OBJ006",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ006_keychain/OBJ006_01_flat_on_wood.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ006_keychain/OBJ006_01_flat_on_wood.jpeg",
+      "imageKey": "productimages/objects1/by_product/OBJ006_keychain/OBJ006_01_flat_on_wood.jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ006_keychain/OBJ006_02_in_hand.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ006_keychain/OBJ006_03_hanging.jpeg",
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ006_keychain/OBJ006_04_on_wallet.jpeg"
+      ]
+    },
+    {
+      "productId": "EP1_OBJ007",
+      "imageUrl": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ007_smartwatch/OBJ007_01.jpeg",
+      "category": "non-clothing",
+      "purchaseLink": "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ007_smartwatch/OBJ007_01.jpeg",
+      "imageKey": "productimages/objects1/by_product/OBJ007_smartwatch/OBJ007_01.jpeg",
+      "additionalImageUrls": [
+        "http://127.0.0.1:8765/productimages/objects1/by_product/OBJ007_smartwatch/OBJ007_02.jpeg"
+      ]
+    }
+  ]
+}

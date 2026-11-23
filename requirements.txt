@@ -1,0 +1,79 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+# ==================================================
+# Core Deep Learning (VALIDATED)
+# ==================================================
+
+torch
+torchvision
+
+# ==================================================
+# Core Scientific
+# ==================================================
+
+numpy
+Pillow
+
+# ==================================================
+# Computer Vision
+# ==================================================
+
+opencv-python-headless
+
+# ==================================================
+# GroundingDINO Dependencies
+# ==================================================
+
+timm
+supervision
+pycocotools
+yapf
+addict
+
+# ==================================================
+# Segmentation
+# ==================================================
+
+segment-anything
+
+# ==================================================
+# CLIP Matching
+# ==================================================
+
+open_clip_torch
+ftfy
+regex
+
+# ==================================================
+# Florence-2 / Transformers
+# ==================================================
+
+# GroundingDINO's BERT wrapper requires the Transformers 4.x attention-mask API.
+# This version also provides Florence2ForConditionalGeneration.
+transformers==4.57.3
+accelerate
+huggingface-hub
+safetensors
+
+# ==================================================
+# API
+# ==================================================
+
+fastapi[standard]
+pydantic>=2,<3
+
+# ==================================================
+# Ollama
+# ==================================================
+
+ollama
+
+# ==================================================
+# Utilities
+# ==================================================
+
+requests
+python-dotenv
+PyYAML
+tqdm
+matplotlib
